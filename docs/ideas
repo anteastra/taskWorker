@@ -1,0 +1,5 @@
+1. use metrics
+    -
+2. use concurrent queues
+    - arrayBlockingQueue
+3. use concurrent libs
